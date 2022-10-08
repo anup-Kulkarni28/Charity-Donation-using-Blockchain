@@ -1,6 +1,6 @@
 SecureFund : Crowdfunding Platform Powered by Ethereum Blockchain
 
-The Platform is live on Rinkeby Test Network and available to use at : [securefund.vercel.app](https://securefund.vercel.app/)
+The Platform is live on sepolia Test Network and available to use at : [securefund.vercel.app](https://securefund.vercel.app/)
 
 ## Problem Statement and Necessity
 
@@ -18,6 +18,7 @@ We were highly inspired by the CryptoRelief initiative ([www.cryptorelief.in](ht
 
 - A Detailed Report of the Project can be [found here](https://docs.google.com/document/d/1_CdJ5pEimTrejDSBnq9Ze6kz2BcKJ6qtiikqWs0rglc/edit?usp=sharing)
 - A Presentation on the Application can be [found here](https://docs.google.com/presentation/d/1-Nbg5tn2UkqDerkinF6yQGOlX1KVBztw/edit#slide=id.p1)
+
 ## Screenshots
 
 #### Home Page :
@@ -52,8 +53,8 @@ We were highly inspired by the CryptoRelief initiative ([www.cryptorelief.in](ht
 ## Prerequisites to create Campaign and Contribute
 
 1. Install **Metamask** as Google Chrome Extension and Create an account.
-2. Request Ether by sharing your ethereum address in social media <br>(`https://faucet.rinkeby.io/)`
-3. Get 0.01 ether free by giving the ethereum address <br>`(http://rinkeby-faucet.com/)`
+2. Request Ether by sharing your ethereum address in social media <br>(`https://faucet.sepolia.io/)`
+3. Get 0.01 ether free by giving the ethereum address <br>`(http://sepolia-faucet.com/)`
 
 ## To Deploy your own Contract
 

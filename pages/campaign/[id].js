@@ -212,7 +212,7 @@ export default function CampaignSingle({
                 href={`https://sepolia.etherscan.io/address/${id}`}
                 isExternal
               >
-                View on Rinkeby Etherscan <ExternalLinkIcon mx="2px" />
+                View on sepolia Etherscan <ExternalLinkIcon mx="2px" />
               </Link>
               <Box mx={"auto"} w={"full"}>
                 <SimpleGrid columns={{ base: 1 }} spacing={{ base: 5 }}>
